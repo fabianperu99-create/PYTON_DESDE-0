@@ -1,4 +1,4 @@
-# Python - Prácticas Básicas 2
+# Python - Prácticas 2
 
 En esta segunda parte continué practicando Python, trabajando con entrada de datos, conversión de tipos, operadores lógicos y estructuras condicionales.
 
