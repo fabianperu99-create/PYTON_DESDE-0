@@ -1,4 +1,4 @@
-# Python - Prácticas Básicas 1
+# Python - Prácticas  1
 
 En esta primera parte del curso estuve practicando los conceptos básicos de Python y realizando pequeños ejercicios para familiarizarme con el lenguaje.
 
